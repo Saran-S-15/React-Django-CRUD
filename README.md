@@ -41,7 +41,7 @@ Ensure the following are installed on your system:
 ### **Backend Setup**
 1. Clone the repository:
    ```bash
-    1. git clone <repository-url>
+    1. git clone https://github.com/Saran-S-15/React-Django-CRUD
 
 	2. cd server, cd api
 
